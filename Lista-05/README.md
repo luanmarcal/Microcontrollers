@@ -1,9 +1,11 @@
 # Exercícios Lista-05
 1: Faça um programa que receba um byte da UART e o transmita de volta (cha-
 mado comumente de echo).
+
 	(anexo)
 2: Faça um programa que receba um byte pela UART e o transmita de volta, mas
 neste caso, utilize interrupção. A cada recepção piscar o LD4.
+
 	(anexo)
 3: Faça um programa para que a cada toque no botão USER envie a seguinte men-
 sagem pela serial: "Botão foi pressionado X vezes.\n\r", onde X deve ser substituído
