@@ -27,3 +27,14 @@ Lembre-se que você pode utilizar arrays dentro de uma struct, e structs dentro 
 outra.
 
 (anexo)
+
+7: Challenge: O Rotary Encoder, conhecido também como potenciômetro infinito,
+é muito utilizado para controle em sons de carros e outros dispositivos. A grande
+vantagem desse componente é que podemos fazer uma alteração em parâmetros de
+diversas fontes sem causar algum impacto no potenciômetro. Por exemplo, um equi-
+pamento de som que possui um controle de volume rotativo e remotamente através
+de algum tipo de conexão USB. Com isto, elabore um programa que leia um rotary
+encoder e acenda um LED ao girar para o sentido horário e outro ao girar ao sentido
+anti-horário. O esquema de montagem para o dispositivo está ilustrado na figura 1.
+
+(anexo)
